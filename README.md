@@ -19,7 +19,7 @@
 # Install 
 
 ```
-sh -c "$(curl -fsLS git.io/chezmoi)" -- init --apply batistein
+sh -c "$(curl -fsLS git.io/chezmoi)" -- init --apply janiskemper
 
 or
 
